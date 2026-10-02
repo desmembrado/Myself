@@ -1,7 +1,7 @@
 <h1 align="center">
   retiredly
   </br>
-  <sub><sub>o.6 gpa</sub></sub>
+  <sub><sub>0.6 gpa</sub></sub>
   </br>
   <p />
 </h2>
